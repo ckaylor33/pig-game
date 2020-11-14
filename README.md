@@ -1,4 +1,4 @@
-# pig-game
+# to-100
 
 2 player game focusing on DOM manipulation.
 
