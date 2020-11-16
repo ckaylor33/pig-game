@@ -9,3 +9,5 @@
 First player to reach 100 points wins!
 
 Play with a friend!
+
+https://ckaylor33.github.io/to-100/
